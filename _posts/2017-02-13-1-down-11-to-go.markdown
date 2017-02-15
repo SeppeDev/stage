@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "1 down, 11 to go"
+date:   2017-02-13 20:03:00 +0100
+categories: jekyll update
+---
+Eerste maandag die niet de eerste dag was viel beter mee dan ik gedacht had (maandagen zijn nog altijd rot). Nog steeds verder gewerkt aan de Hertog site, zowel voor als namiddag. Eerst de home page nog hier en daar een beetje gefinetuned, en vervolgens het zelfde gedaan met de recepten pagina. Morgen waarschijnlijk die twee nog eens met Jonas bekijken, en dan dus toch nog wat extra finetunen. Ook heb ik in de navigatie nog wat javascript toegevoegd, voor een slideDown en slideUp bij het mobile hamburger menu.
+Na de middag eerst wat gelezen over flexbox, en het grid van twitter bootstrap apart genomen om dit in het vervolg te kunnen gebruiken, wat denkik handiger, vlotter, performanter en uitgebreider is dan mijn nu zelf geschreven gridje. Vervolgens ben ik begonnen aan de recepten-detail pagina, waar ik mijn goeie vrienden "tabs" ben tegengekomen. Eerst wat gestyled en dan wat javascript geschreven om de tabs te kunnen toggelen.
