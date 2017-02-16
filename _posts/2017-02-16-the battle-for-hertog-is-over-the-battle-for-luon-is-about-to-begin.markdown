@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The battle for Hertog is over, the battle for Luon is about to begin..."
+date:   2017-02-16 20:03:00 +0100
+categories: jekyll update
+---
+Het einde is in zicht met Hertog ijs! Vandaag heb ik de laatste pagina's gemaakt, behalve de contact pagina, die is nog voor morgen voormiddag. Ik merk dat ik gestructureerder te werk ga, makkelijker dingen in de BEM structuur opsplits, en er ook vlotter mee werk (waar ik niet mee bedoel dat ik er helemaal mee weg ben en er vlotjes mee werk, want dat is nog niet het geval). Ook heb ik stukjes van mijn eerdere css en html herschreven/herstructureerd, omdat ik ze niet logisch vond. Begin volgende week ga ik nog eens met Jonas samenzitten om mijn werk te bekijken/evalueren, want deze week is het vrij druk geweest voor de front-end afdeling. Het werk waar vorige week aan begonnen zou moeten geweest zijn, is pas deze week doorgekomen van de andere afdelingen, en moet af zijn tegen begin maart, wat de nodige druk/stress/lange dagen/... met zich meebrengt voor mijn collega's. Jonas antwoord steeds als ik vragen heb, en ik zit nergens mee vast, dus ik heb er onder geen enkele manier nadeel bij, buiten dat ik nu zie dat de shitstorm die wij studenten vrijwillig over ons laten komen bij grote taken door uit te stellen, in het werkveld ook voorkomt, maar dan meestal niet uit vrije wil, maar door designers/de klant/..., wat niet het meest inspirerende is om te zien in de tweede week. Dit is echter wel de eerse keer dat Jonas zich kan herinneren dat dit gebeurt, dus dat is dan weer een geruststelling.
+Er was vnadaag weer een jarige, en het "feest-commité" heeft wat foto's getrokken met hen, wat voor plezante foto's als pauze gezorgd heeft.
+Morgen namiddag naar Gent, ik kijk er al naar uit!
