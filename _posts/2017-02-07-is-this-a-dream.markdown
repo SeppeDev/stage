@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Is this a deam"
+title:  "Is this a dream"
 date:   2017-02-07 20:03:00 +0100
 categories: jekyll update
 ---
