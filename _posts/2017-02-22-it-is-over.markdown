@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "It is over..."
+date:   2017-02-22 20:03:00 +0100
+categories: jekyll update
+---
+Nog wat zitten werken aan Hertog, en wat zitten prutsen met het contact form, dat ik vergeten was, maar dat dankzij boorstrap ongelofelijk veel eenvoudiger is om deftig te maken. Daarna is Jonas me tickets beginnen sturen, ik weet niet meer hoe de service heet, maar daar heeft hij me wat uitleg over gegeven, en dan hebben we samen "heel" de website overlopen. Over het algemeen leek hij tevreden, en hij heeft meermaals de woorden "muggenziften" in de mond genomen, wat een goed teken is. Wel nog een heel aantal opmerkingen over BEM, waar ik een aantal zelf al van ontdekt had, en besseft had dat ik niet zo duidelijk bezig was, wat dus bevestigd werd. Morgen dus tickets verder verwerken en in de namiddag een nieuwe opdracht waarschijnlijk.
