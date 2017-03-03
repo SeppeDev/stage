@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "One of the bog boys"
+date:   2017-03-03 20:03:00 +0100
+categories: jekyll update
+---
+De website van gistere was net af, dus gaf Jonas me de opdracht hem verder uit te breiden met wat javascript. Enkele opties mochten enkel zichtbaar zijn bij het geven van bepaalde antwoorden (Is uw cholesterol gedaald? -> Zoja, waarom denkt u?). Op zich niet zo'n moeilijke opdracht, maar enkele van deze voorwaarden waren genest in elkaar, wat het toch wel pittiger maakte. Ook moest ik hierna een jQuery plugin gebruiken voor validatie, en hier werd de nesting helemaal plezant. Sommige velden waren alleen required als het antwoord op een andere vraag Yes (of No) was.
+Dit was bijna af toen Jonas naar me zwaaide en zei dat hij "echt werk" voor me had. Een website voor RAAK, die dinsdag verstuurd moet worden. Ik heb m'n functie afgeschreven, Jonas is even naast me komen zitten om me te briefen, en dan ben ik eraan begonnen. Geen heel ingewikkelde mail, maar het feit dat het niet om te oefenen is, of om mij te testen, maar echt dinsdag verstuurd wordt naar klanten, zorgt wel voor een... intensere ervaring. Julie, de PM, mailde me dat ze me maandag de linken gaat geven die erin gestoken moeten worden, dus dat staat maandag nog op het programma, want de mail was net klaar voor ik naar huis vertrok. Maandag ook zeker nog eens dubbel checken in Email On Acid, en na het invoeren van de linken nog eens, maar het feit dat hij niet zo complex in elkaar zat, de mail, zorgt ook voor veel minder mogelijkheden voor Outlook om dingen fout weer te geven, wat het debuggen veel korter en eenvoudiger maakt. Jonas ging ook maandag eens kijken naar mijn code om nog veranderingen ofzo door te geven.
