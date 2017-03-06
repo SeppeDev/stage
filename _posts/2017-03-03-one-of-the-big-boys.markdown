@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "One of the bog boys"
+title:  "One of the big boys"
 date:   2017-03-03 20:03:00 +0100
 categories: jekyll update
 ---
