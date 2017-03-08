@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Work work"
+date:   2017-03-07 20:03:00 +0100
+categories: jekyll update
+---
+Verder gewerkt aan de template voor de 16 (17 eigelijk, er is een 4a en b) mails voor Seaters. Mooi tegen de middag was ik klaar en had ik eer eerste rondje EoA gedaan. Na het eten heeft Jonas wat issues in Sifter gestoken, die ik dan keurig gefixed heb. Als alles in orde was ben ik dan begonnen om aan de hand van de template al de mails te bouwen. Tot mail 8 geraakt, morgen de rest. De mails zijn "vrij eenvoudig", waar ik natuurlijk niet mee wil zeggen dat ik de template mooi foutloos gemaakt had van in het begin, maar structureel is het grootste deel single collumn, wat dingen vergemakkelijkt. De enige delen die wel meerdere kolomen hebben, zijn de stukjes waar de prijs etc. staat, wat sowiso al een tabel is, en dus eenvoudiger en logischer om ook onder elkaar te laten schuiven dan. Morgen zal ik dit wel kunnen afmaken, waarna ik terug aan een website zal mogen werken, zegt Jonas, heerlijk!
