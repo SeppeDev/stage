@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Swipe"
+date:   2017-03-09 20:03:00 +0100
+categories: jekyll update
+---
+De tinder-achtige website logica uitgebreid zodat er ook geswiped kan worden. en dan nog wat extra animaties ingestoken zodat stemmen ook visueel bevestigd wordt, niet gewoon een foto laat verdwijnen. Hoveren over de stemknoppen deed al iets, maar stemmen zelf niet, en hoveren is ook niet echt een optie op een touch-device. Daarna de Sketch-bestanden gekregen en begonnen met het slicen van de nodige images en het maken van een sprite-sheet.
