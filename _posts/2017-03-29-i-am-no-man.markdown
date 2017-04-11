@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "I am no man"
+date:   2017-03-29 20:03:00 +0100
+categories: jekyll update
+---
+Verder CRUD functionaliteit geschreven, maar vanavond gaat Benno me uitleggen hoe ik met pull requests moet werken, zodat we onze git ordelijk en duidelijk kunnen houden, zodat we die achteraf ook kunnen gebruiken als 'dagboek', wat we wanneer hebben gedaan. Ook kunnen we dan veel minder makkelijk in elkaars code zitten prutsen, dingen van elkaar kapot maken etc etc. Spijtig en vreemd dat we dit niet op school geleerd hebben. Hierdoor heb ik dus geen pushes gedaan vandaag. Seffens en morgen ga ik die doen, op de juiste manier met PRs.
