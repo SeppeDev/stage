@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Marketing Automation Day"
+date:   2017-05-03 20:03:00 +0100
+categories: jekyll update
+---
+'s Ochtends kwam ik toe in een leeg RAAK-bureau. Het is Marketing Automation Day vandaag. Onno en Serge zijn in de voormiddag er ook nog naar vertrokken, dus het is rustig op kantoor vandaag, goed om flink verder te werken aan de offline sync toestanden.
